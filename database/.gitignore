@@ -1,1 +1,21 @@
-*.sqlite*
+# Laravel & Node.js dependencies
+/vendor/
+/node_modules/
+
+# Environment
+.env
+
+# Storage & logs
+/storage/*.key
+/storage/debugbar
+/storage/framework/cache/data
+/storage/logs/*.log
+/bootstrap/cache/*.php
+
+# IDE files
+/.idea
+/.vscode
+
+# Optional build / deployment folders
+/public/hot
+/public/storage
