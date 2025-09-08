@@ -1,0 +1,307 @@
+[
+  {
+    "id": 1,
+    "title": "Anusara",
+    "year": 2024,
+    "description": "Anusara is a mobile application designed to make learning Indonesian local languages fun and engaging through gamification. The app offers a wide range of features, including interactive games, a comprehensive dictionary, and a translation tool. Anusara aims to preserve cultural heritage by making language learning accessible and enjoyable for everyone, anytime and anywhere.",
+    "role": "UI/UX Designer",
+    "technology": ["Figma"],
+    "image": "/assets/anusara.png",
+    "foto": "/assets/anusara01.png",
+    "link": "https://www.figma.com/design/OIIS7grBLpIQFNtReevTYd/Anusara?node-id=137-1116&t=8nUuWxlqMxJ5jMw5-1",
+    "fitur": [
+      {
+        "title": "Game",
+        "description": "Users can play games to improve their local language skills, complete with a point collection feature."
+      },
+      {
+        "title": "Translate",
+        "description": "Translate local languages to Indonesian or vice versa quickly and easily."
+      },
+      {
+        "title": "Dictionary",
+        "description": "A local language dictionary to help users understand word meanings and expand their vocabulary."
+      }
+    ],
+    "contibution": [
+      {
+        "list": [
+          "Led the design process as the primary UI/UX designer using Figma",
+          "Ideated and conceptualized the core idea for the project",
+          "Created wireframes, high-fidelity designs, and interactive prototypes for the Dashboard page and activity details"
+        ],
+        "image": "/assets/anusara02.png"
+      }
+    ],
+    "images": [
+      "/assets/anusara03.png",
+      "/assets/anusara04.png",
+      "/assets/anusara06.png",
+      "/assets/anusara05.png",
+      "/assets/anusara07.png"
+    ]
+  },
+
+  {
+    "id": 2,
+    "title": "Sushi Man",
+    "year": 2024,
+    "description": "SushiMan Mobile App is an innovative application designed specifically for sushi restaurants, aimed at streamlining and simplifying the ordering process. The app allows customers to order their favorite menu items directly from their table without waiting for a waiter. With an intuitive and user-friendly interface, customers can view the complete menu, select dishes as they prefer, customize their orders, and send them straight to the kitchen. ",
+    "role": "UI/UX Designer & Frontend Developer",
+    "technology": ["Flutter", "Figma", "Dart"],
+    "image": "/assets/sushiman.png",
+    "foto": "/assets/sushiman1.png",
+    "link": "https://github.com/artalia-a/sushi_app",
+    "fitur": [
+      {
+        "title": "Customer Dashboard and Chart Page",
+        "description": "The system allows customers to view the list of available menu items at the restaurant along with detailed information for each menu, such as description, price, and options. Customers can select the quantity of each item they want and add it to their cart seamlessly. Additionally, the system provides real-time notifications to inform customers whenever a menu item is successfully added to their cart, ensuring a smooth and interactive ordering experience."
+      },
+      {
+        "title": "Customer Order",
+        "description": "The system enables customers to view the complete list of items they wish to order in their cart before finalizing the purchase. After reviewing, customers can place their order easily through the platform. Once the order is confirmed, the system will send the order details directly to the admin side for processing, ensuring efficient communication and order management between the customer and the restaurant."
+      },
+      {
+        "title": "Cashier Dashboard and Order Management",
+        "description": "he system lets customers browse menus, add items to their cart, and place orders with real-time notifications, while cashiers can manage menus, receive order alerts, and update payment status for accurate transactions."
+      }
+    ],
+    "contibution": [
+      {
+        "list": [
+          "Designed user interface using Figma",
+          "Implemented cashier dashboard page",
+          "Created the SRS (Software Requirements Specification) document to outline the project's requirements and specifications."
+        ],
+        "image": "/assets/sushiman05.png"
+      }
+    ],
+    "images": [
+      "/assets/sushiman01.png",
+      "/assets/sushiman02.png",
+      "/assets/sushiman03.png",
+      "/assets/sushiman04.png"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Selingan",
+    "year": 2024,
+    "description": "Selingan is a platform designed to facilitate various creative activities that users can participate in, such as flower arranging, painting, and other hobby-related events. This website allows users to discover events, register, or even create their own. With Selingan, everyone can easily access structured and practical information about leisure activities in one place.",
+    "role": "UI/UX Designer, Frontend Developer & Project Manager",
+    "technology": ["React", "Vite", "Javascript", "Ant Design", "Tailwind CSS"],
+    "image": "/assets/selingan.png",
+    "foto": "/assets/selingan1.png",
+    "link": "https://github.com/artalia-a/selingan_app",
+    "fitur": [
+      {
+        "title": "Explore Activities",
+        "description": "Discovering things to do, such as a fun activities (drawing, cooking, lower arranging, etc)"
+      },
+      {
+        "title": "Join Activities",
+        "description": "Being invited and enroll a fun activities near your place! Based on your preferences"
+      },
+      {
+        "title": "Create Activities",
+        "description": "Be hos for an activities and tell it to everyone! Manage from the invitation until the event is done"
+      }
+    ],
+    "contibution": [
+      {
+        "list": [
+          "Team Organization and Project Planning",
+          "Designed user interface using Figma",
+          "Implemented the Ragam page and ragam activity detail",
+          "Implemented the Sign Up and Sign In page with authentication functionality",
+          "Created the SRS (Software Requirements Specification) document to outline the project's requirements and specifications."
+        ],
+        "image": "/assets/selingan2.png"
+      }
+    ],
+    "images": [
+      "/assets/selingan3.png",
+      "/assets/selingan4.png",
+      "/assets/selingan6.png",
+      "/assets/selingan7.png",
+      "/assets/selingan9.png",
+      "/assets/selingan8.png"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Foodnow",
+    "year": 2024,
+    "description": "Food Now is a pizza ordering website designed to provide customers with a fast, easy, and convenient ordering experience. Through this website, users can browse various pizza options with detailed information such as size, toppings, and price. The website features an intuitive interface, allowing customers to place orders with just a few clicks, without long waiting times. In addition, the real-time ordering system ensures that orders are immediately sent to the restaurant for processing.",
+    "role": "Frontend Developer",
+    "technology": ["Vue.Js"],
+    "image": "/assets/foodnow.png",
+    "foto": "/assets/foodnow1.png",
+    "link": "https://foodnow-vue-project.vercel.app/",
+    "fitur": [
+      {
+        "title": "Real-time Order Tracking",
+        "description": "Customers can track the status of their orders from preparation to delivery."
+      },
+      {
+        "title": "Customizable Orders",
+        "description": "Users can customize their pizzas by selecting size, crust type, and toppings."
+      },
+      {
+        "title": "Secure Payment Gateway",
+        "description": "Integration with secure payment options for hassle-free transactions."
+      }
+    ],
+    "contibution": [
+      {
+        "list": [
+          "Built all website pages using Vue.js, HTML, CSS, and JavaScript.",
+          "Ensured responsive performance, making the website run smoothly across different devices and screen sizes.",
+          "Implemented interactive features such as customizable orders for users."
+        ],
+        "image": "/assets/foodnow2.png"
+      }
+    ],
+    "images": [
+      "/assets/foodnow3.png",
+      "/assets/foodnow4.png",
+      "/assets/foodnow6.png",
+      "/assets/foodnow5.png"
+    ]
+  },
+
+  {
+    "id": 5,
+    "title": "Expenses Management App",
+    "year": 2023,
+    "description": "A blogging platform with user authentication and content management.",
+    "role": "Full Stack Developer",
+    "technology": ["Figma", "Flutter"],
+    "image": "/assets/mony.png",
+    "foto": "/assets/expenses1.png",
+    "link": "https://github.com/artalia-a/expenses-management-app",
+    "fitur": [
+      {
+        "title": "Game",
+        "description": "Users can play games to improve their local language skills, complete with a point collection feature."
+      },
+      {
+        "title": "Translate",
+        "description": "Translate local languages to Indonesian or vice versa quickly and easily."
+      },
+      {
+        "title": "Dictionary",
+        "description": "A local language dictionary to help users understand word meanings and expand their vocabulary."
+      }
+    ],
+    "contibution": [
+      {
+        "list": [
+          "Led the design process as the primary UI/UX designer using Figma",
+          "Ideated and conceptualized the core idea for the project",
+          "Created wireframes, high-fidelity designs, and interactive prototypes for the Dashboard page and activity details"
+        ],
+        "image": "/assets/expenses2.png"
+      }
+    ],
+    "images": [
+      "/assets/expenses5.png",
+      "/assets/expenses4.png",
+
+      "/assets/expenses6.png"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Music Player App",
+    "year": 2024,
+    "description": "Music Player is a web-based application that allows users to listen to music, watch music videos, add their favorite songs, and create or edit playlists according to their preferences. The application is designed with a simple and responsive interface, providing users with a comfortable and interactive entertainment experience.",
+    "role": "UI/UX Designer & Frontend Developer",
+    "technology": [
+      "React",
+      "Vite",
+      "Javascript",
+      "Tailwind CSS",
+      "Ant Design",
+      "Figma"
+    ],
+    "image": "/assets/music.png",
+    "foto": "/assets/music1.png",
+    "link": "https://github.com/artalia-a/music_player_app",
+    "fitur": [
+      {
+        "title": "Play Music and Watch Music Videos",
+        "description": "Users can listen to their favorite songs and watch music videos directly within the application."
+      },
+      {
+        "title": "Add Favorite Songs",
+        "description": "Users can add songs to their favorites list for easy access later."
+      },
+      {
+        "title": "Create and Edit Playlists",
+        "description": "Users can create custom playlists and edit them according to their preferences."
+      }
+    ],
+    "contibution": [
+      {
+        "list": [
+          "Designed user interface using Figma",
+          "Implemented the Lab page with CRUD functionality"
+        ],
+        "image": "/assets/music2.png"
+      }
+    ],
+    "images": [
+      "/assets/music3.png",
+      "/assets/music4.png",
+      "/assets/music6.png",
+      "/assets/music5.png",
+      "/assets/music7.png"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "ISSA",
+    "year": 2023,
+    "description": "Information System Student Achievement (ISSA) is a web-based system designed to record, manage, and monitor student achievements within the Information Systems Study Program Universitas Pendidikan Ganesha in a structured and efficient manner. The system enables transparent, accurate, and easily accessible achievement data collection and verification for students, academic advisors, and program coordinators. Equipped with analytical features such as charts and reports, ISSA supports student performance evaluation and facilitates data-driven decision-making to enhance the quality of achievement management at the program level.",
+    "role": "UI/UX Designer",
+    "technology": ["Figma"],
+    "image": "/assets/issa.png",
+    "foto": "/assets/issa1.png",
+    "link": "https://www.figma.com/design/uQVmKaj4Z5VI3Peb2Jum0S/ISSA?node-id=0-1&t=1StzbpiHjpo1iQHT-1",
+    "fitur": [
+      {
+        "title": "Student Dashboard",
+        "description": "Students can input their achievements, view the accumulated achievements they have earned, and display achievement progress charts."
+      },
+      {
+        "title": "Study Program Coordinator Dashboard",
+        "description": "The study program coordinator can view students’ accumulated achievements, access detailed information on each student’s achievements, and monitor their progress."
+      },
+      {
+        "title": "Academic Supervisor Dashboard",
+        "description": "Academic supervisors can view the accumulated achievements of their mentees, access detailed achievement information, and verify the authenticity of reported achievements."
+      }
+    ],
+    "contibution": [
+      {
+        "list": [
+          "Conducting research on user needs (students, academic supervisors, and program coordinators) through interviews, questionnaires, or existing system analysis.",
+          "Creating wireframes for each dashboard (Student, Academic Supervisor, Program Coordinator).",
+          "Designing user interfaces with a focus on consistency, readability, and aesthetics in accordance with UI design principles.",
+          "Providing design assets and detailed documentation for developers to ensure proper implementation."
+        ],
+        "image": "/assets/issa2.png"
+      }
+    ],
+    "images": [
+      "/assets/issa3.png",
+      "/assets/issa4.png",
+      "/assets/issa6.png",
+      "/assets/issa5.png",
+
+      "/assets/issa7.png",
+      "/assets/issa8.png"
+    ]
+  }
+]
