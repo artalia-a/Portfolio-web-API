@@ -1,8 +1,0 @@
-node_modules/
-pages/
-components/
-package.json
-package-lock.json
-next.config.js
-public/
-styles/
