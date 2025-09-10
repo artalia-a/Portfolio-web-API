@@ -20,8 +20,8 @@ return [
     'allowed_methods' => ['*'],
 
     // 'allowed_origins' => [env('FRONTEND_URL', 'http://localhost:3000')],
-    // 'allowed_origins' => ['http://localhost:3000' , 'https://artalia-portfolio.vercel.app'],
-    'allowed_origins' => explode(',', env('https://artalia-portfolio.vercel.app', 'http://localhost:3000')),
+    // 'allowed_origins' => ['http://localhost:3000' , 'https://artini-artalia-portfolio.vercel.app'],
+    'allowed_origins' => explode(',', env('https://artini-artalia-portfolio.vercel.app', 'http://localhost:3000')),
 
 
     'allowed_origins_patterns' => [],
